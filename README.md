@@ -1,4 +1,4 @@
-#School Diner Project
+# School Diner Project
 
 This script runs through a diner scenario and adds up the total of the customers bill.
 
